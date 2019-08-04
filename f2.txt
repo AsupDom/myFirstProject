@@ -1,1 +1,2 @@
-"My new file 2" 
+"My new file 2"
+Add new line.
